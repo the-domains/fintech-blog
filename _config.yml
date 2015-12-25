@@ -1,0 +1,28 @@
+name: Fintech.blog
+favicon: null
+layout_spectrum: 0.16056457930244505
+typography_spectrum: 0.9695849106647074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.06999676395207644
+  lightness: 0.23536660987883806
+  saturation: 0.5986323382239789
+  rhythmicContrast: 0.6041790794115514
+purpose: []
